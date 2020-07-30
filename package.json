@@ -1,0 +1,19 @@
+{
+  "name": "Oberon",
+  "version": "1.0.0",
+  "description": "Project for learning PixiJS",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "prod": "parcel build src/index.html"
+  },
+  "repository": "https://www.github.com/codyroberts/Oberon",
+  "author": "Cody <cargy9@mst.edu>",
+  "license": "MIT",
+  "dependencies": {
+    "pixi": "^0.3.1"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
